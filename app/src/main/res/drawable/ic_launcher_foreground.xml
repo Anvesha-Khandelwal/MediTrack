@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Launcher icon foreground: white pill on transparent -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,54c0,-8.84 7.16,-16 16,-16s16,7.16 16,16 -7.16,16 -16,16 -16,-7.16 -16,-16z" />
+    <path
+        android:fillColor="#00897B"
+        android:pathData="M54,42c-6.63,0 -12,5.37 -12,12s5.37,12 12,12 12,-5.37 12,-12 -5.37,-12 -12,-12zM54,46c4.42,0 8,3.58 8,8 0,2.21 -0.9,4.21 -2.34,5.66l-11.31,-11.31C49.79,46.9 51.79,46 54,46z" />
+</vector>
